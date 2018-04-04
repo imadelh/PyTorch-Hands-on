@@ -5,6 +5,6 @@ In this repo I will be posting useful notebooks about the library PyTorch. All w
 
 ## Notebooks & code
 
-- Introduction : From numpy to PyTorch
+- Introduction : From numpy to PyTorch - Tensor/vector computation on GPU
 - 
 
