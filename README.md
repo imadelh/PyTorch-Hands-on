@@ -7,4 +7,4 @@ In this repo I will be posting useful notebooks about the library PyTorch. All w
 
 - Introduction: From numpy to PyTorch - Tensor/vector computation on GPU
 - Autograd: Variables & Automatic differentiation
-
+- Neural Networks and `torch.nn` package
